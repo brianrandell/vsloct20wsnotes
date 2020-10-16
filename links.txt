@@ -15,3 +15,6 @@ B2B and SSO
 Get links to configuring DNS
 	https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain
 	https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings
+
+Books you might like:
+Phil's C# Book: http://bri.gd/pjbk9edamzn
