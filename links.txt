@@ -1,0 +1,17 @@
+How to create better looking dashboards
+	https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards
+	https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-app-dashboards
+	
+	https://smile.amazon.com/Information-Dashboard-Design-At-Glance/dp/1938377001/
+	https://smile.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/
+	
+	https://www.edwardtufte.com/tufte/
+B2B and SSO
+	https://docs.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b
+	https://docs.microsoft.com/en-us/azure/active-directory/external-identities/faq
+	https://docs.microsoft.com/en-us/azure/active-directory/external-identities/direct-federation
+	Azure AD B2B authentication and federation | Azure Active Directory
+	
+Get links to configuring DNS
+	https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain
+	https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings
