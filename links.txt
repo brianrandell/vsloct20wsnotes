@@ -18,3 +18,9 @@ Get links to configuring DNS
 
 Books you might like:
 Phil's C# Book: http://bri.gd/pjbk9edamzn
+
+Git GUIs
+https://www.sourcetreeapp.com/
+https://www.git-tower.com/windows
+https://tortoisegit.org/
+https://www.gitkraken.com/
